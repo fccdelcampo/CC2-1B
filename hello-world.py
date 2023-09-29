@@ -8,5 +8,5 @@ pi = 3.14159
 print(f"Hello, {name}" + "!")
 print(f"My age next year is: {age_next_year}")
 
-printf("The remainder in 5 % 3 is", mod)
-printf("The approximate value of pi is", pi)
+print("The remainder in 5 % 3 is", mod)
+print("The approximate value of pi is", pi)
